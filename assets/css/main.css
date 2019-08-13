@@ -84,6 +84,15 @@ input, select, textarea {
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.075);
 }
+#main article .close:hover::before {
+    background-color: rgba(255, 255, 255, 0.075);
+    transform: rotate(180deg);
+    transition: 0.5s;
+}
+#main article .close::before {
+    transform: rotate(0deg);
+    transition: 0.5s;
+}
 
 /* Basic */
 
