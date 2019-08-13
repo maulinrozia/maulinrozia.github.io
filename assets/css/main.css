@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+/*custom css*/
+.logo img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
