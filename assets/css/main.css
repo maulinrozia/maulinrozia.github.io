@@ -91,7 +91,7 @@ input, select, textarea {
 }
 #main article .close::before {
     transform: rotate(0deg);
-    transition: 0.5s;
+  transition: 0.5s !important;
 }
 
 /* Basic */
