@@ -100,6 +100,9 @@ a {
 nav ul li a {
     font-weight: 600;
 }
+.copyright {
+    color: white;
+}
 /* Basic */
 
 	@-ms-viewport {
