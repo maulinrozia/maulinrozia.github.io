@@ -116,6 +116,9 @@ nav ul li a {
     text-decoration: none !important;
     border: none !important;
 }
+#work p {
+    color: white;
+}
 /* Basic */
 
 	@-ms-viewport {
