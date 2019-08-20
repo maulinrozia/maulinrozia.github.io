@@ -103,6 +103,15 @@ nav ul li a {
 .copyright {
     color: white;
 }
+.col-md-4.pfcontentcenter {
+    float: left;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.col-md-4.pfcontentcenter > .rounded.img-fluid {
+    background: white;
+}
 /* Basic */
 
 	@-ms-viewport {
