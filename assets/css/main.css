@@ -97,6 +97,9 @@ a {
     color: white !important;
     text-decoration: none !important;
 }
+nav ul li a {
+    font-weight: 600;
+}
 /* Basic */
 
 	@-ms-viewport {
