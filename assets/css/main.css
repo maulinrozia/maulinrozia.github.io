@@ -119,7 +119,12 @@ nav ul li a {
 #work p {
     color: white;
 }
-
+#main {
+    width: 100%;
+}
+#intro,#work,#portfolio,#about,#contact {
+    width: 100% !important;
+}
 /* Basic */
 
 	@-ms-viewport {
