@@ -119,9 +119,7 @@ nav ul li a {
 #work p {
     color: white;
 }
-#portfolio > .col-md-4.pfcontentcenter {
-    padding-left: 0 !important;
-}
+
 /* Basic */
 
 	@-ms-viewport {
