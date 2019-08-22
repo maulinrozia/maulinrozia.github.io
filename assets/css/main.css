@@ -103,16 +103,16 @@ nav ul li a {
 .copyright {
     color: white;
 }
-.col-md-4.pfcontentcenter {
+.col-md-3.pfcontentcenter {
     float: left;
     text-align: center;
     margin-bottom: 30px;
     margin-top: 30px;
 }
-.col-md-4.pfcontentcenter a img {
+.col-md-3.pfcontentcenter a img {
     background: white !important;
 }
-.col-md-4.pfcontentcenter a {
+.col-md-3.pfcontentcenter a {
     text-decoration: none !important;
     border: none !important;
 }
