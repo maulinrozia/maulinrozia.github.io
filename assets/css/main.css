@@ -115,6 +115,7 @@ nav ul li a {
 .col-md-3.pfcontentcenter a {
     text-decoration: none !important;
     border: none !important;
+	display: block;
 }
 #work p {
     color: white;
