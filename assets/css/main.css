@@ -1710,3 +1710,7 @@ nav ul li a {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+#about p {
+    color: #fff;
+}
