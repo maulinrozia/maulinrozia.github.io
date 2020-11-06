@@ -36,7 +36,9 @@ body {
 ol, ul {
 	list-style: none;
 }
-
+.skills li {
+    color: #fff;
+}
 blockquote, q {
 	quotes: none;
 }
